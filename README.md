@@ -29,8 +29,8 @@ The goal was to:
 ## Files
 
 * `Biochemistry_task_(2_4).ipynb`: Jupyter Notebook containing the Python code for the analysis.
-* `SIFT Dataset`: (Add link to your SIFT dataset here, or describe where it is located)
-* `FoldX Dataset`: (Add link to your FoldX dataset here, or describe where it is located)
+* `SIFT Dataset`:[Sift.tsv](https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/R/datasets/sift.tsv)
+* `FoldX Dataset`:[FoldX.tsv](https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/R/datasets/foldX.tsv)
 
 ## Dependencies
 

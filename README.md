@@ -38,9 +38,22 @@ The following Python libraries are required to run the notebook:
 
 * `pandas`
 * `matplotlib`
-* `seaborn` (if used for enhanced plots)
+  
 
-You can install these libraries using pip:
+You can install these libraries using pip
 
-```bash
-pip install pandas matplotlib seaborn
+## Results
+The notebook provides:
+
+* A merged dataframe with SIFT and FoldX scores.
+* A list of mutations affecting both structure and function.
+* Frequency tables and visualizations of amino acid occurrences.
+* An analysis of the most impactful amino acids.
+
+## Author
+
+* Hana Nadir(@Hana) 
+
+## Acknowledgements
+* Galardini and colleagues for providing the research context.
+* HackBio for the task.
